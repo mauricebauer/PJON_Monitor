@@ -2,6 +2,8 @@
 # PJON® Monitor
 A PJON® Application to **receive and send messages** from a user-friendly GUI.
 
+![Mockup](https://docs.google.com/uc?id=1cjngjnUMiB0Q5b4Du5QqewDXpAili5-v "Mockup")
+
 At the moment this application is only a **concept** and we are searching for the right technology-stack. Suggestions are welcome.
 
 ## Feature-suggestions for the first version
